@@ -4,7 +4,7 @@ A Machine Learning web application that predicts product sales for BigMart store
 
 ## 🚀 Live Demo
 
-🔗 Streamlit App: bigmart-sales-prediction ∙ main ∙ app.py
+🔗 Streamlit App: bigmart-sales-prediction∙main∙app.py
 
 🔗 GitHub Repository: https://github.com/itspranaykr/BigMart-Sales-Prediction.git
 
